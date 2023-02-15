@@ -290,6 +290,12 @@ h6 {
   position: relative;
 }
 
+@media only screen and (max-width: 600px) {
+  #hero {
+    background-size: contain;
+  }
+}
+
 
 @media (min-width: 992px) {
   #hero {
