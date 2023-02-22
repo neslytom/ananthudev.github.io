@@ -281,20 +281,6 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-/* #hero {
-  width: 100%;
-  height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  position: relative;
-}
-
-@media only screen and (max-width: 100px) {
-  #hero {
-    background-size: contain;
-  }
-} */
 #hero {
   width: 100%;
   height: 100vh;
@@ -309,14 +295,6 @@ h6 {
     background-size: contain;
   }
 }
-
-@media (min-width: 992px) {
-  #hero {
-    padding-left: 160px;
-  }
-}
-
-
 
 
 
